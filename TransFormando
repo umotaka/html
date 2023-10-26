@@ -1,0 +1,49 @@
+ <li><a href="#">Contato</a></li>
+          <li><a href="#">informarções</a></li>
+        </ul>
+        <img
+          src="
+          https://static.poder360.com.br/2022/03/Bandeira-Trans-pintada-848x477.jpg  "
+        />
+      </nav>
+    </header>
+
+    <main>
+      <section id="sobre">
+        <h2>Sobre</h2>
+        <p>
+          ola seja bem-vinde, esse site e focado a pessoas trans e travestis,
+          oque eu falerei sobre:dicas, curiosidades,trabalhos, etc...
+        </p>
+      </section>
+
+      <section id="servicos">
+        <h2>Nossos Serviços</h2>
+        <ul>
+          <li>informar</li>
+          <li>ajudar</li>
+          <li>dicas</li>
+          <li>noticias</li>
+        </ul>
+      </section>
+
+      <section id="informarções">
+        <h2>dicas</h2>
+        MENINAS MENINOS
+        <p></p>
+      </section>
+
+      <section id="contato">
+        <h2>Entre em Contato</h2>
+        <p>
+          Envie-nos um e-mail
+          <a href="umotaka@gmail.com">umotaka@gmail.com</a>
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 TrasnFormando</p>
+    </footer>
+  </body>
+</html>
